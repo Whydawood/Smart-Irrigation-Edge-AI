@@ -114,8 +114,7 @@ smart-irrigation-edge-ai/
 ├── agent/
 ├── dashboard/
 ├── experiments/
-├── docs/
-![System Architecture](docs/system-architecture.png)
+├── docs/system-architecture.png/
 └── tests/
 ```
 
