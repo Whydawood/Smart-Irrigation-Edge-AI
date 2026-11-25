@@ -115,6 +115,7 @@ smart-irrigation-edge-ai/
 ├── dashboard/
 ├── experiments/
 ├── docs/
+![System Architecture](docs/system-architecture.png)
 └── tests/
 ```
 
@@ -140,7 +141,3 @@ Implementation milestones and experimental results will be updated as developmen
 ## 🔬 Research Contribution
 
 The primary research focus is to investigate whether sensor reliability assessment and independent safety validation can improve the reliability of AI-driven irrigation decisions under uncertain and faulty sensor conditions.
-
-## 📜 License
-
-See the LICENSE file for licensing information.
