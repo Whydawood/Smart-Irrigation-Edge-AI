@@ -1,1 +1,13 @@
 
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+streamlit
+paho-mqtt
+joblib
+scipy
+
