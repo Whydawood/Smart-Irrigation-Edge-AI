@@ -120,11 +120,11 @@ smart-irrigation-edge-ai/
 
 ## 👥 Project Team
 
-| Member 
+| Member |
 |---|---|
-| Arosh Khan 
-| Muhammad Dawood Hussain 
-| Shahzainulhaq 
+| Arosh Khan |
+| Muhammad Dawood Hussain |
+| Shahzainulhaq |
 
 **Supervisor:** Muhammad Naeem Khan
 
