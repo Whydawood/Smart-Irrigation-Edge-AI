@@ -121,7 +121,7 @@ smart-irrigation-edge-ai/
 ## 👥 Project Team
 
 | Member |
-|---|---|
+|---|
 | Arosh Khan |
 | Muhammad Dawood Hussain |
 | Shahzainulhaq |
