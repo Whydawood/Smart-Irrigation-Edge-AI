@@ -120,11 +120,11 @@ smart-irrigation-edge-ai/
 
 ## 👥 Project Team
 
-| Member | Registration No. |
+| Member 
 |---|---|
-| Arosh Khan | 23pwdsc0106 |
-| Muhammad Dawood Hussain | 23pwdsc0121 |
-| Shahzainulhaq | 23pwdsc0135 |
+| Arosh Khan 
+| Muhammad Dawood Hussain 
+| Shahzainulhaq 
 
 **Supervisor:** Muhammad Naeem Khan
 
